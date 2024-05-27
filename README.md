@@ -23,6 +23,7 @@ Neoload, Gatling, JMeter, Selenium WebDriver, Grafana, Dynatrace, Docker, Kubern
   - Assess the NFRs to gain a clear understanding of the system's performance expectations.
   - Develop scenarios and load models that replicate real-world usage patterns and represent user behavior.
   - Create a CI/CD test suite.
+  - Performance testing infrastructure maintenance, services deployment.
   - Execute performance tests, including ramp-up, fixed load, soak tests, scalability, and cache tests to assess the system's performance under varying load conditions.
   - Analyze test results to define performance issues and areas for enhancement.
   - Produce a comprehensive report summarizing the testing process and outcomes.
