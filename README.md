@@ -2,24 +2,32 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AnnaDatska-white?style=flat&logo=linkedin)](https://www.linkedin.com/in/anna-datska)
 [![Telegram](https://img.shields.io/badge/Telegram-@annadatska-blue?style=flat&logo=telegram)](https://t.me/annadatska)
 
-### I am an experienced Performance test engineer with a strong desire to succeed in DevOps practices learning.
+I’m a Performance Engineer who loves making systems faster, more reliable, and ready to scale.
 
-I'm focused on strengthening quality and performance of different applications.
-Accustomed to working within Agile and Scrum methodologies, team-minded and hardworking with
-strong communication, critical thinking and multitasking abilities.
+I can help you build performance testing infrastructure from scratch, integrate it into CI/CD pipelines with ephemeral environments and monitoring, and apply a shift-left approach to bring performance earlier into the development process.
 
-Experienced in whole cycle of performance testing process: determining load model, scripting, preparing environment and test data, automating performance testing process, performing set of tests and analyzing them, preparing reports, discussing results and performance bottlenecks with developers and stakeholders, initiating an investigation based on test results and helping in investigations, creating and updating project documentation.
+With a musical background, I see performance engineering like conducting an orchestra - when every component works in harmony, you get a perfectly tuned system.
 
 ---
 
 ### **Skills:**
-Neoload, Gatling, JMeter, Selenium WebDriver, Grafana, Dynatrace, Docker, Kubernetes, Helm, WireMock, Microservices
+AWS, Kubernetes, Nomad, Docker, Helm, Terraform, K6, Gatling, Locust, NeoLoad, WireMock, Microservices
 
 ---
 
 ### **Experience:**
-#### EPAM Systems, Performance Analyst, Aug, 2023 - till now
-  McKesson. Project in Life Sciences & Healthcare domain. Optimizing the performance of microservices. End-to-end performance testing with the following approach:
+#### Sii Ukraine, Performance Engineer, Apr, 2025 - till Now
+  Project in Financial domain.
+  - Lead app, dependencies, and infrastructure analysis to design performance testing strategies, including scope definition, mocking approach, and infrastructure preparation.
+  - Build ephemeral, isolated environments in AWS, Kubernetes, and Nomad via Terraform, Helm to enable performance testing and seamless CI/CD integration.
+  - Develop and maintain performance component tests for continuous performance validation within CI/CD pipelines.
+  - Collect testing and monitoring metrics to generate reports and insights.
+  - Identify system bottlenecks and provide recommendations for performance optimization.
+  - Advocate for and implement a shift-left approach, embedding performance early in the development lifecycle.
+  - Mentor teammates and development teams on how to design and implement performance enablement from scratch, fostering a performance-first culture across projects.
+
+#### EPAM Systems, Performance Analyst, Aug, 2023 - Apr, 2025
+  Project in Life Sciences & Healthcare domain. Optimizing the performance of microservices. End-to-end performance testing with the following approach:
   - Assess the NFRs to gain a clear understanding of the system's performance expectations.
   - Develop scenarios and load models that replicate real-world usage patterns and represent user behavior.
   - Create a CI/CD test suite.
@@ -30,7 +38,7 @@ Neoload, Gatling, JMeter, Selenium WebDriver, Grafana, Dynatrace, Docker, Kubern
 
  
 #### EPAM Systems, Performance Analyst, 2021 - 2023
-  London Stock Exchange Group. Project in Financial Domain. Solution for financial market that contains of big number of backend systems with various financial data and desktop and web solution created from compositions of number separate web applications with common UI and flows.
+  Project in Financial Domain. Solution for financial market that contains of big number of backend systems with various financial data and desktop and web solution created from compositions of number separate web applications with common UI and flows.
   My primary focus was on client-side and server-side performance testing, analyzing loading time, performance metrics, memory utilization CPU usage etc.
   Key responsibilities:
   - Developing performance testing scenarios in terms of real user behavior to evaluate the system's performance and identify potential issues that may impact performance.
