@@ -2,21 +2,40 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AnnaDatska-white?style=flat&logo=linkedin)](https://www.linkedin.com/in/anna-datska)
 [![Telegram](https://img.shields.io/badge/Telegram-@annadatska-blue?style=flat&logo=telegram)](https://t.me/annadatska)
 
-I’m a Performance Engineer who loves making systems faster, more reliable, and ready to scale.
-
-I can help you build performance testing infrastructure from scratch, integrate it into CI/CD pipelines with ephemeral environments and monitoring, and apply a shift-left approach to bring performance earlier into the development process.
-
-With a musical background, I see performance engineering like conducting an orchestra - when every component works in harmony, you get a perfectly tuned system.
+I’m a Performance & Platform Engineer focused on building fast, reliable, and scalable systems by design.
+ 
+I specialize in building performance enablement platforms from the ground up, integrating performance testing into CI/CD and building ephemeral environments that support shift-left, self-service workflows. I’ve also focused on AI-driven automation to make performance onboarding faster and easier for engineering teams.
+ 
+My work spans infrastructure, platform engineering, and developer experience, with a focus on reducing friction and making performance testing a natural part of delivery rather than a separate phase.
+ 
+With a musical background, I see performance engineering as orchestration — when every component is in sync, the whole system performs as one.
 
 ---
 
 ### **Skills:**
-AWS, Kubernetes, Nomad, Docker, Helm, Terraform, K6, Gatling, Locust, NeoLoad, WireMock, Microservices
+Performance Engineering, Platform Engineering, AWS, Kubernetes, Nomad, Docker, Helm, Terraform, K6, Gatling, Locust, NeoLoad
 
 ---
 
 ### **Experience:**
-#### Sii Ukraine, Performance Engineer, Apr, 2025 - till Now
+#### Sii Ukraine, Senior Performance Engineer, Apr, 2026 - Mow
+  Project in Financial domain.
+  Key Achievements:
+  - Reduced performance enablement implementation time in CI/CD from 3 weeks to 3 days by developing an AI-powered automation plugin.
+  - Built the organization's performance enablement framework from scratch, establishing scalable processes and engineering standards.
+  - Defined standardized approaches for dependency mocking and isolated, ephemeral performance test environments.
+  - Created reusable documentation and onboarding guidelines, enabling consistent self-service adoption across engineering teams.
+  - Contribute to golden path development workflows by embedding performance testing into CI/CD pipelines to improve DevEx.
+  Responsibilities:
+  - Design and implement performance enablement solutions across applications, platforms, and infrastructure.
+  - Build and maintain ephemeral performance test environments using AWS, Kubernetes, Nomad, Terraform, and Helm.
+  - Develop automated performance testing frameworks and integrate them into CI/CD pipelines.
+  - Analyze performance metrics, identify bottlenecks, and drive optimization initiatives.
+  - Define performance engineering standards, reusable platform capabilities, and self-service tooling.
+  - Collaborate with platform, DevOps, and development teams to embed a shift-left performance engineering culture.
+  - Mentor engineers on performance testing best practices and enablement strategies.
+
+#### Sii Ukraine, Performance Engineer, Apr, 2025 - Mar, 2026
   Project in Financial domain.
   - Lead app, dependencies, and infrastructure analysis to design performance testing strategies, including scope definition, mocking approach, and infrastructure preparation.
   - Build ephemeral, isolated environments in AWS, Kubernetes, and Nomad via Terraform, Helm to enable performance testing and seamless CI/CD integration.
@@ -35,9 +54,8 @@ AWS, Kubernetes, Nomad, Docker, Helm, Terraform, K6, Gatling, Locust, NeoLoad, W
   - Execute performance tests, including ramp-up, fixed load, soak tests, scalability, and cache tests to assess the system's performance under varying load conditions.
   - Analyze test results to define performance issues and areas for enhancement.
   - Produce a comprehensive report summarizing the testing process and outcomes.
-
  
-#### EPAM Systems, Performance Analyst, 2021 - 2023
+#### EPAM Systems, Performance Analyst, Dec, 2021 - Jul, 2023
   Project in Financial Domain. Solution for financial market that contains of big number of backend systems with various financial data and desktop and web solution created from compositions of number separate web applications with common UI and flows.
   My primary focus was on client-side and server-side performance testing, analyzing loading time, performance metrics, memory utilization CPU usage etc.
   Key responsibilities:
@@ -49,6 +67,12 @@ AWS, Kubernetes, Nomad, Docker, Helm, Terraform, K6, Gatling, Locust, NeoLoad, W
 ---
  
 ### **Training:**
+- Introduction to Backstage: Developer Portals Made Easy (LFS142), Jul, 2026<br>
+  The Linux Foundation Education
+- Kubernetes Cluster Lifecycle Management in Platform Engineering, Jul, 2026<br>
+  Platform Engineering University
+- Cloud Development Environments for Platform Engineers, Jul, 2026<br>
+  Platform Engineering University
 - Basics of DevOps and Kubernetes, March, 2024 - May, 2024<br>
   GlobalLogic, Prometheus, Denys Vasyliev
 - Gatling Mentoring Program, Apr, 2024 - May, 2024<br>
